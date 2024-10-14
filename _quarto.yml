@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PET Interpretattion"
+  navbar:
+    tools:
+    left:
+      - text: "Blog"
+        href: index.qmd
+      - text: "SCLC"
+        href: posts/SCLC/staging.qmd
+      - text: "About"      
+        href: posts/about/about.qmd    
+        
+  sidebar:
+    - title: "SCLC"
+      contents:
+        - posts/SCLC/staging.qmd
+execute: 
+  freeze: auto
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    toc: true
+    mathjax: "default"
