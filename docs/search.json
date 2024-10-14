@@ -1,10 +1,14 @@
 [
   {
-    "objectID": "posts/SCLC/SCLC.html",
-    "href": "posts/SCLC/SCLC.html",
+    "objectID": "posts/SCLC/staging.html",
+    "href": "posts/SCLC/staging.html",
     "title": "Staging for Small Cell Lung Cancer",
     "section": "",
-    "text": "Small Cell Lung Cancer Staging\nThe definition of small cell lung cancer is divided into two stages as shown in Table 1 .\n\n\n\n\nTable 1: Definition of small cell lung cancer consists of two stages\n\n\n\n\n\n\n\n\n\nStage\nDescription\n\n\n\n\nLimited Stage\nStage I-III (T any, N any, M0) that can be safely treated with definitive radiation doses. Excludes T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan.\n\n\nExtensive Stage\nStage IV (T any, N any, M1a/b/c), or T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan."
+    "text": "Small Cell Lung Cancer Staging\nThe definition of small cell lung cancer is divided into two stages as shown in Table 1 .\n\n\n\n\nTable 1: Definition of small cell lung cancer consists of two stages\n\n\n\n\n\n\n\n\n\nStage\nDescription\n\n\n\n\nLimited Stage\nStage I-III (T any, N any, M0) that can be safely treated with definitive radiation doses. Excludes T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan.\n\n\nExtensive Stage\nStage IV (T any, N any, M1a/b/c), or T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan.",
+    "crumbs": [
+      "SCLC",
+      "Staging for Small Cell Lung Cancer"
+    ]
   },
   {
     "objectID": "index.html",
