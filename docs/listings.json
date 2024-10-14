@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/about/about.html",
+      "/posts/prostate/staging.html",
       "/posts/SCLC/staging.html"
     ]
   }

@@ -6,17 +6,18 @@ date: "2024-10-14"
 date-modified: "2024-10-14"
 categories:
   - staging
+tbl-colwidths: [10,90]
 ---
 
-# Small Cell Lung Cancer Staging
+The definition of small cell lung cancer is divided into two stages as shown in @tbl-stages.
 
-The definition of small cell lung cancer is divided into two stages as shown in @tbl-stages .
+<div>
 
-:::{}
-| **Stage**         | **Description**                                                                                                                                                                                |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Limited Stage**  | Stage I-III (T any, N any, M0) that can be safely treated with definitive radiation doses. Excludes T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan. |
-| **Extensive Stage**| Stage IV (T any, N any, M1a/b/c), or T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan.                |
+| **Stage** | **Description** |
+|:-------------|:-----------------------------------------------------------|
+| **Limited Stage** | Stage I-III (T any, N any, M0) that can be safely treated with definitive radiation doses. Excludes T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan. |
+| **Extensive Stage** | Stage IV (T any, N any, M1a/b/c), or T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan. |
 
 : Definition of small cell lung cancer consists of two stages {#tbl-stages}
-:::
+
+</div>
