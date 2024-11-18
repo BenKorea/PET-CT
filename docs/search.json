@@ -22,7 +22,7 @@
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\nintroduction\n\n\n\nIntroduction to this site\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nStaging for Prostate Cancer\n\n\n\n\n\n\nstaging\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nStaging for Small Cell Lung Cancer\n\n\n\n\n\n\nstaging\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nNSCLC\n\n\n\n\n\n\nIntroduction\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nNov 18, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\nintroduction\n\n\n\nIntroduction to this site\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nStaging for Prostate Cancer\n\n\n\n\n\n\nstaging\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nStaging for Small Cell Lung Cancer\n\n\n\n\n\n\nstaging\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/prostate/staging.html",
@@ -44,5 +44,12 @@
     "title": "Staging for Prostate Cancer",
     "section": "Pathologic T Staging",
     "text": "Pathologic T Staging\n\n\n\n\nTable 2: Definition of pathologic T stages\n\n\n\n\n\n\n\n\n\npT\nDescription\n\n\n\n\nT2\nOrgan confined\n\n\nT3\nExtraprostatic extension\n\n\nT3a\nExtraprostatic extension (unilateral or bilateral) or microscopic invasion of bladder neck\n\n\nT3b\nTumor invades seminal vesicle(s)\n\n\nT4\nTumor is fixed or invades adjacent structures other than seminal vesicles such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wall\n\n\n\n\n\n\n\nNote: There is no pathological T1\nNote: Positive surgical margin should be indicated by an R1 descriptor, indicating residual microscopic disease."
+  },
+  {
+    "objectID": "posts/NSCLC/staging.html",
+    "href": "posts/NSCLC/staging.html",
+    "title": "NSCLC",
+    "section": "",
+    "text": "The definition of small cell lung cancer is divided into two stages as shown in Table 1.\n\n\n\n\nTable 1: Definition of small cell lung cancer consists of two stages\n\n\n\n\n\n\n\n\n\nStage\nDescription\n\n\n\n\nLimited Stage\nStage I-III (T any, N any, M0) that can be safely treated with definitive radiation doses. Excludes T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan.\n\n\nExtensive Stage\nStage IV (T any, N any, M1a/b/c), or T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan."
   }
 ]
